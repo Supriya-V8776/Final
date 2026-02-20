@@ -1,6 +1,7 @@
 a=0
 b=0
 c=0
-b=20
-c=30
-output=a+b+c
+a=100
+b=2
+c=3
+output=a-b-c
